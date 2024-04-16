@@ -1,0 +1,21 @@
+NumeroLinea,MunicipioOrigen,MunicipioDestino,HoraSalida,IntervaloEntreBuses
+1,Abengibre,Alatoz,08:00:00,01:00:00
+2,Albacete,Albatana,09:00:00,01:15:00
+3,Alborea,Alcadozo,10:00:00,01:30:00
+4,Alcalá del Júcar,Alcaraz,11:00:00,01:45:00
+5,Almansa,Alpera,12:00:00,02:00:00
+6,Ayna,Balazote,13:00:00,02:15:00
+7,Barrax,Bienservida,14:00:00,02:30:00
+8,Bogarra,Bonete,15:00:00,02:45:00
+9,Carcelén,Casas de Juan Núñez,16:00:00,03:00:00
+10,Casas de Lázaro,Casas de Ves,17:00:00,03:15:00
+11,Casas-Ibáñez,Caudete,18:00:00,03:30:00
+12,Cenizate,Chinchilla de Monte-Aragón,19:00:00,03:45:00
+13,Corral-Rubio,Cotillas,20:00:00,04:00:00
+14,Elche de la Sierra,Férez,21:00:00,04:15:00
+15,Fuensanta,Fuente-Álamo,22:00:00,04:30:00
+16,Fuentealbilla,Gineta, La,23:00:00,04:45:00
+17,Golosalvo,Hellín,00:00:00,05:00:00
+18,Herrera, La,Higueruela,01:00:00,05:15:00
+19,Hoya-Gonzalo,Jorquera,02:00:00,05:30:00
+20,Letur,Lezuza,03:00:00,05:45:00

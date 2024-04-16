@@ -1,0 +1,79 @@
+NumeroLinea,Municipio,IntervaloDesdeHoraSalida
+1,Abengibre,00:00:00
+1,Alatoz,00:20:00
+1,Albacete,00:40:00
+1,Albatana,01:00:00
+2,Albacete,00:00:00
+2,Albatana,00:30:00
+2,Alborea,01:00:00
+2,Alcadozo,01:30:00
+3,Alborea,00:00:00
+3,Alcadozo,00:45:00
+3,Alcalá del Júcar,01:30:00
+3,Alcaraz,02:15:00
+4,Alcalá del Júcar,00:00:00
+4,Alcaraz,00:45:00
+4,Almansa,01:30:00
+4,Alpera,02:15:00
+5,Almansa,00:00:00
+5,Alpera,00:40:00
+5,Ayna,01:20:00
+5,Balazote,02:00:00
+6,Ayna,00:00:00
+6,Balazote,00:45:00
+6,Barrax,01:30:00
+6,Bienservida,02:15:00
+7,Barrax,00:00:00
+7,Bienservida,00:50:00
+7,Bogarra,01:40:00
+7,Bonete,02:30:00
+8,Bogarra,00:00:00
+8,Bonete,00:55:00
+8,Barrax,01:50:00
+8,Bienservida,02:45:00
+9,Carcelén,00:00:00
+9,Casas de Juan Núñez,01:15:00
+9,Casas de Lázaro,02:30:00
+9,Casas de Ves,03:45:00
+10,Casas de Lázaro,00:00:00
+10,Casas de Ves,01:20:00
+10,Casas-Ibáñez,02:40:00
+10,Caudete,04:00:00
+11,Casas-Ibáñez,00:00:00
+11,Caudete,01:30:00
+11,Cenizate,03:00:00
+11,Chinchilla de Monte-Aragón,04:30:00
+12,Cenizate,00:00:00
+12,Chinchilla de Monte-Aragón,01:45:00
+12,Corral-Rubio,03:30:00
+12,Cotillas,05:15:00
+13,Corral-Rubio,00:00:00
+13,Cotillas,02:00:00
+13,Elche de la Sierra,04:00:00
+13,Férez,06:00:00
+14,Elche de la Sierra,00:00:00
+14,Férez,02:15:00
+14,Fuensanta,04:30:00
+14,Fuente-Álamo,06:45:00
+15,Fuensanta,00:00:00
+15,Fuente-Álamo,02:00:00
+15,Fuentealbilla,04:00:00
+15,Gineta, La,06:00:00
+16,Fuentealbilla,00:00:00
+16,Gineta, La,02:15:00
+16,Golosalvo,04:30:00
+16,Hellín,06:45:00
+17,Golosalvo,00:00:00
+17,Hellín,02:30:00
+17,Herrera, La,05:00:00
+17,Higueruela,07:30:00
+18,Herrera, La,00:00:00
+18,Higueruela,02:45:00
+18,Hoya-Gonzalo,05:30:00
+18,Jorquera,08:15:00
+19,Hoya-Gonzalo,00:00:00
+19,Jorquera,03:00:00
+19,Letur,06:00:00
+19,Lezuza,09:00:00
+20,Letur,00:00:00
+20,Lezuza,03:15:00
